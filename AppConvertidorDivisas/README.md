@@ -60,13 +60,3 @@ Principalmente se desarrollo dentro del IDE de _Apache Neatbeans_, empleando el 
 
 :heavy_check_mark: `Funcionalidad 4:` Presionar el boton CONVERTIR y hacer la conversion a la moneda.
 
-## Agradecimientos
-
-- **ONE – Oracle Next Education**
-- [Alura](https://www.aluracursos.com/)
-
-<!--HACKER-IMAGES--> 
-### Contribuciones
->Aspiring to be a great software developer.
-<p align="center" dir="auto"><img src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/Mastermind.gif" width="100%"></p>
-<p align="center" dir="auto">Made by José Luis Vargas with ❤️</p>
