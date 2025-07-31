@@ -1,14 +1,13 @@
-# Challenge ONE-ORACLE NEXT EDUCATION: AppConvertidorDivisas
-Desafios de encriptacion del programa de Oracle-Alura LATAM Segundo Challenge - Desarrollo de una App en Java para la conversion de Divisas.  
+# Challenge AppConvertidorDivisas
+Desafios de encriptacion del Segundo Challenge - Desarrollo de una App en Java para la conversion de Divisas.  
 
 <p align="center" dir="auto">
 <img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/ConvertidorDeDivisasUso.png" width="100%">
 </p>
 
 ## Descripción
-> Challenge ONE Sprint 01: Crea tu propio conversor de moneda.
+Crea tu propio conversor de moneda.
 
-> Es el primer desafio de **la Especialidad BACK END**, donde empleamos lo visto en el primer módulo, el lenguaje de programación Java: Orientado a Objetos, así como herramientas necesarias que todo desarrollador de software debe contar para el diseño y desarrollo de aplicaciones.
 
 ## Requisitos:
 - `Convertir de la moneda de tu país a Dólar`
